@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "todo-list",
-    "slug": "todo-list",
+    "slug": "todo-list-blazier",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dda5139b-258b-4de7-abdd-ccf4f1cbb190"
+      }
+    },
+    "owner": "nicole.blazier"
   }
 }
